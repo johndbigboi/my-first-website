@@ -1,2 +1,2 @@
-# My First Webpage
-This is my repository for my very first webpage
+# My First Web Page
+This is my repository for my very first web page
